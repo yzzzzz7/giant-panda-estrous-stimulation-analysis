@@ -1,0 +1,23 @@
+# Data and results
+data/
+input/
+output/
+results/
+figures/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.zip
+*.raw
+*.mzML
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
